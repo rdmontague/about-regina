@@ -3,5 +3,15 @@ p   {
 }
 
 body {
+    background-color: coral;
     text-align: center;
+}
+
+img {
+    height: 400px;
+    width: 600px;
+}
+
+li {
+    list-style-type: none;
 }
